@@ -83,7 +83,6 @@ enum OrderStatus {
   PENDING
   IN_PREPARATION
   FINISHED
-  PAYMENT_CONFIRMED
 }
 
 enum ConsumptionMethod {
