@@ -22,7 +22,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ### 1️⃣ Clone o repositório  
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Rianxavier/self-order.git
 ```
 
 ### 2️⃣ Acesse o diretório do projeto  
